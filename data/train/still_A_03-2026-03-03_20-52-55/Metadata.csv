@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,Pixel 6,1772571175324,2026-03-03_20-52-55,Africa/Kigali,android,1.54.1,2102950b-bc3f-4b51-84b3-ed8f66e9f07c,Accelerometer|Gyroscope|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10||10|10|10,false,36
